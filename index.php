@@ -69,7 +69,7 @@
                     <form action="simpan.php" method="POST" enctype="multipart/form-data">
                         <div class="form-group">
                             <label for="id">ID</label>
-                            <input type="text" name="id" id="id" class="form-control" required="true" disabled="">
+                            <input type="text" name="id" id="id" class="form-control" required="true" placeholder="Auto Increment">
                         </div>
                         <div class="form-group">
                             <label for="nama">Nama </label>
