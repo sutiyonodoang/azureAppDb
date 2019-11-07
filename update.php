@@ -11,6 +11,7 @@ if( $conn === false ) {
 $id = $_POST['id'];
 $nama = $_POST['nama'];
 $tsql = "Update tsiswa set nama ='$nama' where id = '$id'";
+echo $tsql;
 $stmt = sqlsrv_query( $conn, $tsql);
 
 if( $stmt === false ) {
