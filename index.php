@@ -14,15 +14,15 @@
                         <div class="form-group">
                             <label for="name">Name</label>
                             <input type="text" name="name" id="name" class="form-control" required="true">
-                        </div>
+                        </div><br>
                         <div class="form-group">
                             <label for="email">Email </label>
                             <input type="text" name="email" id="email" class="form-control" required="true">
-                        </div>
+                        </div><br>
                         <div class="form-group">
                             <label for="job">Job </label>
                             <input type="text" name="job" id="job" class="form-control" required="true">
-                        </div>
+                        </div><br>
                 </div>
                 <div class="modal-footer">
                     <button type="submit" class="btn btn-secondary" >Submit</button>
