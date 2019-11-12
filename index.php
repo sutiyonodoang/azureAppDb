@@ -9,7 +9,8 @@
     <div class="container mt-3">
         <div class="row">
             <div class="col-sm-12">
-                <h1>Register Here!</h1>
+                <h1>Register Here!</h1><hr>
+                <h3>Server Asia</h3><hr>
                 <form action="simpan.php" method="POST" enctype="multipart/form-data">
                         <div class="form-group">
                             <label for="name">Name</label>
